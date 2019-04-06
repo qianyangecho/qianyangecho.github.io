@@ -102,7 +102,7 @@ th {
 #wrapper {
   color: inherit;
   background-color: inherit;
-  width: 776px;
+  width: 976px;
   margin-left: auto; /* Todo: Do cross browser centering */
   margin-right: auto;
   text-align: left;
@@ -142,7 +142,7 @@ th {
 }
 
 #right_container {
-  width: 550px;
+  width: 750px;
   line-height: 1.5em;
   float: left;
   padding-bottom: 10px;
