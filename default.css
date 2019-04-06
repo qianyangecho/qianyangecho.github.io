@@ -8,16 +8,16 @@
 body {
   background-color: #fff;
   color: #333;
-  font-size: 80%;
-  font-family: verdana, arial, "trebuchet ms", helvetica, sans-serif;
+  font-size: 90%;
   background-image: url("background.png");
   background-repeat: repeat-x;
   text-align: center;
+  font-family:"Times New Roman",Georgia,Serif;
 }
 
 blockquote {
   padding: 10px;
-  font-size: 110%;
+  font-size: 80%;
   letter-spacing: 1px;
   font-style: italic;
   background-color: #f7f7f7;
@@ -31,10 +31,18 @@ blockquote {
 
 p {
   padding: 5px;
+  font-size: 110%;
+}
+
+bp {
+  padding: 5px;
+  font-size: 120%;
+  font-weight: bold;
 }
 
 h1, h2, h3, h4 {
-  font-family: georgia, serif;
+  /*font-family: georgia, serif;*/
+  font-family:"Times New Roman",Georgia,Serif;
   display: block;
   border-bottom: 1px solid #eeeeee;
   padding-left: 5px;
@@ -102,7 +110,7 @@ th {
 #wrapper {
   color: inherit;
   background-color: inherit;
-  width: 976px;
+  width: 1000px;
   margin-left: auto; /* Todo: Do cross browser centering */
   margin-right: auto;
   text-align: left;
@@ -189,7 +197,8 @@ th {
 }
 /* Custom Styles */
 #site_logo {
-  font-family: georgia, serif;
+  /*font-family: georgia, serif;*/
+  font-family:"Times New Roman",Georgia,Serif;
   font-size: 180%;
   font-weight: bold;
   padding-top: 15px;
