@@ -58,12 +58,6 @@ bp {
   font-weight: bold;
 }
 
-ip {
-  padding: 5px;
-  font-size: 100%;
-  font-style: italic;
-}
-
 h1, h2, h3, h4 {
   /*font-family: georgia, serif;*/
   font-family:"Times New Roman",Georgia,Serif;
